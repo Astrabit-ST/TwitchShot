@@ -1,0 +1,10 @@
+{
+   "oauth": "oauth:<key>",
+   "botname": "<username for the bot>",
+   "channel": "<channel to join>",
+   "prefix": "<prefix>",
+   "offline_message": "<offline message>",
+   "log_level": "<log level in CAPS>",
+   "input_overlay": "<true or false>",
+   "user_overlay": "<true or false>"
+}
